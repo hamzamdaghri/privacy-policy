@@ -1,17 +1,17 @@
-# Master Dev Centre
+# RayViko 🌙
 
-# Master-DiscordBot-PrivacyPolicy
-Privacy Policy of Master DiscordBot
+# RayViko 🌙-PrivacyPolicy
+Privacy Policy of RayViko 🌙
 
 # Privacy Policy
 
-### By using **[Master](https://discord.com/oauth2/authorize?client_id=914978756077187153&scope=bot&permissions=8)**, you agree to the following **Privacy Policy.**
-#### [Invite Master](https://discord.com/oauth2/authorize?client_id=914978756077187153&scope=bot&permissions=8)
+### By using **[RayViko 🌙](https://discord.com/oauth2/authorize?client_id=1144836786091216957&permissions=8&integration_type=0&scope=bot)**, you agree to the following **Privacy Policy.**
+#### [Invite RayViko 🌙](https://discord.com/oauth2/authorize?client_id=1144836786091216957&permissions=8&integration_type=0&scope=bot)
 
 ## What information is stored?
 
-- Master stores your userid if you've found a bug.
-- Master also stores your userid if you were in our [Support Server](https://discord.gg/5RPRWM9RBd)
+- RayViko 🌙 stores your userid if you've found a bug.
+- RayViko 🌙 also stores your userid if you were in our [Support Server](https://discord.gg/ChGUGNZ5Mg)
 - If at any time you were blacklisted, temporary or permanent from our bot, **blacklist information will be stored**.
 - When you get blacklisted **your userid, the admins userid, the date, and reason are stored**.
 - If you get muted, kicked or banned from a guild, **your userid is stored**.
@@ -33,13 +33,13 @@ Privacy Policy of Master DiscordBot
 
 ##  Who can read this data?
 
-- **People can only see if you're blacklisted when commands don't work**. The **detailed information can only be seen by Master Admins/Developers**.
-- **All Muted, Mutedrole, Prefix, and Modlog data can be accessed by Master Admins/Developers**. Only **server administrator/moderators can see their own guild modlogs other if they wish to make it public**.
-- **Suggestions and/or bug reports can be seen by anyone in our [Support Server](https://discord.gg/5RPRWM9RBd)**
+- **People can only see if you're blacklisted when commands don't work**. The **detailed information can only be seen by RayViko 🌙 Admins/Developers**.
+- **All Muted, Mutedrole, Prefix, and Modlog data can be accessed by RayViko 🌙 Admins/Developers**. Only **server administrator/moderators can see their own guild modlogs other if they wish to make it public**.
+- **Suggestions and/or bug reports can be seen by anyone in our [Support Server](https://discord.gg/ChGUGNZ5Mg)**
 
 ## Questions and Concerns.
 
-If you are **concerned about the data stored, or have any questions, [Join the Official Support Server](https://discord.gg/5RPRWM9RBd)** and open a ticket.
+If you are **concerned about the data stored, or have any questions, [Join the Official Support Server](https://discord.gg/ChGUGNZ5Mg)** and open a ticket.
 
 
 ## How to Remove your data.
@@ -48,10 +48,10 @@ If you are **concerned about the data stored, or have any questions, [Join the O
 *This will cause the bot to get rid of and/or disassociate data from you.
 Clearing this data does not clear blacklist data or muted data.*
 
-**If you want more detailed removal of your data, [Join our Discord Server](https://discord.gg/5RPRWM9RBd) and request it.**
+**If you want more detailed removal of your data, [Join our Discord Server](https://discord.gg/ChGUGNZ5Mg) and request it.**
 
 ### ***Note: __We reserve the right to change this without notifying our users.__***
-##### This policy was last updated on FEBRUARY 20th, 2023.
+##### This policy was last updated on FEBRUARY 20th, 2024.
 
 
-## [Invite Master](https://discord.com/oauth2/authorize?client_id=914978756077187153&scope=bot&permissions=8)
+## [Invite RayViko 🌙](https://discord.com/oauth2/authorize?client_id=1144836786091216957&permissions=8&integration_type=0&scope=bot)
